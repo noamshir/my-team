@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Arsenal
-- Font Author: Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)
-- Font Source: http://fonts.gstatic.com/s/arsenal/v10/wXKrE3kQtZQ4pF3D11_WAewrhXY.ttf
+- Font Title: Lexend Deca
+- Font Author: Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)
+- Font Source: http://fonts.gstatic.com/s/lexenddeca/v15/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1ArBPCqLNflg.ttf
 - Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

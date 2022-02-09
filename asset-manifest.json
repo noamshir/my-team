@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/css/main.4e172d23.css",
+    "main.css": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/css/main.7e82d9c4.css",
     "main.js": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/js/main.c0e1fa7b.js",
     "static/media/avatar-kady.jpg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/avatar-kady.78fc482c1b331d912ca1.jpg",
     "static/media/avatar-arthur.jpg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/avatar-arthur.098c2e26b1c3fa071061.jpg",
@@ -13,16 +13,16 @@
     "static/media/bg-pattern-home-3.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/bg-pattern-home-3.4bc172f902aa8a5308451cd91cce9f8a.svg",
     "static/media/icon-quotes.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/icon-quotes.c51739212c310345577396beac77ec6a.svg",
     "static/media/icon-pinterest.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/icon-pinterest.a2d25ab4c70b78c4028f25323009cc58.svg",
-    "static/media/bg-pattern-home-2.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/bg-pattern-home-2.889d5d8c448ed043a71bd7e91e884388.svg",
     "index.html": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/index.html",
+    "static/media/bg-pattern-home-2.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/bg-pattern-home-2.889d5d8c448ed043a71bd7e91e884388.svg",
     "static/media/icon-twitter.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/icon-twitter.1d5c6d5e6ab1717a500af2df0a87959a.svg",
     "static/media/icon-facebook.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/icon-facebook.229c75a01827343aef31ae916e2ec18a.svg",
     "static/media/icon-hamburger.svg": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/media/icon-hamburger.fc176eb243d0591583eb436d00f4c10e.svg",
-    "main.4e172d23.css.map": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/css/main.4e172d23.css.map",
+    "main.7e82d9c4.css.map": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/css/main.7e82d9c4.css.map",
     "main.c0e1fa7b.js.map": "/%E2%80%8Bhttps://%3Cnoamshir%3E.github.io/%3Cmy-team%3E%E2%80%8B/static/js/main.c0e1fa7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e172d23.css",
+    "static/css/main.7e82d9c4.css",
     "static/js/main.c0e1fa7b.js"
   ]
 }
